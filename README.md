@@ -10,6 +10,7 @@ Functions:
 
 • Suggest correct word if user input has typo
 
-• User input is case sensitive
+• User input is not case sensitive
+
 
 Reference: https://docs.python.org/3/library/difflib.html
